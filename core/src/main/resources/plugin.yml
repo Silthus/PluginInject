@@ -1,0 +1,5 @@
+name: PluginInject
+author: Nate Mortensen
+version: 1.0.0
+main: com.natemortensen.plugininject.PluginInject
+load: STARTUP

@@ -1,0 +1,5 @@
+main: example.ExamplePlugin
+name: Example
+author: Nate Mortensen
+version: 1.0.0
+depends: [PluginInject]
