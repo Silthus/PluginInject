@@ -1,4 +1,5 @@
-#PluginInject
+# PluginInject
+
 PluginInject is the fourth in a series of attempts I have made to provide easy dependency injection
 into Bukkit plugins.  I consider it to be the most simple and successful so far.  It is built around
 HK2, the reference implementation of JSR 330(Dependency Injection for Java).  HK2 was chosen as it
